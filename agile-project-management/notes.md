@@ -1,7 +1,5 @@
 # Notes: Agile Project Management and Tools to Help
 
-## What is it that you want to say?
-
 I want to introduce the idea of agile project management. In order to do this I would like to be able to thoroughly explain its implementation in a software development context first. This will begin with a clear definition of what agile is and what was popular before the agile approach to projects namely the "Waterfall" approach.
 
 Agile vs. waterfall
